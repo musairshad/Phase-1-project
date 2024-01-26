@@ -1,5 +1,5 @@
 # *Up Up and Away! Fortune Inc Makes it's Way into the Sky*
-### Elina Rankova
+### Musa Irshad
 
 <p align="center">
   <img src = "https://github.com/erankova/Phase-1-Project/blob/main/Images/Airplane1.jpg" width="720" height="450">
